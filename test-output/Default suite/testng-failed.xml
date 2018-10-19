@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="javacollections.Hashmap_add_reterive_elements"/>
+      <class name="suryaseljava.javaintprograms.callcustomException"/>
+      <class name="suryaseljava.javaintprograms.ArraytoArray_copy"/>
+      <class name="suryaseljava.javaintprograms.Interger_String"/>
+      <class name="suryaseljava.javaintprograms.List_Iterator_Reterive"/>
+      <class name="suryaseljava.javaintprograms.customException"/>
+      <class name="suryaseljava.javaintprograms.App"/>
+      <class name="javacollections.Reterive_hashtbl_keyvalues"/>
+      <class name="suryaseljava.javaintprograms.ArraytoArray_copy2"/>
+      <class name="suryaseljava.javaintprograms.DigitinString_sum"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->
